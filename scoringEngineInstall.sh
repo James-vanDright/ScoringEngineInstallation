@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This script should execute and build all
-#the neccsary parts for gettingt he scoring engine running.
+#the necessary parts for getting the scoring engine running.
 
 #Installing Required Programs
 sudo apt-get update
