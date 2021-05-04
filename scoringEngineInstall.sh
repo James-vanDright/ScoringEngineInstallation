@@ -33,7 +33,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 #get the lastest scoring engine
 curl https://github.com/scoringengine/scoringengine/archive/refs/heads/master.zip -L -o scoringEngine.zip
 
-unzip ScoringEngine.zip
+unzip scoringEngine.zip
 
 cd scoringengine-master
 sudo docker-compose build
